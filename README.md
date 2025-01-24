@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Mip-NeRF 360 dataset download link: [Mip-NeRF 360](https://jonbarron.info/mipnerf360/)
 
-Tanks&Temples and Deep Blending datasets download link: [Tanks&Temples and Deep Blending](Tanks&Temples and Deep Blending)
+Tanks&Temples and Deep Blending datasets download link: [Tanks&Temples and Deep Blending](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/datasets/input/tandt_db.zip)
 
 ## Data
 
