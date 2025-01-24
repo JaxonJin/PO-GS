@@ -1,0 +1,12 @@
+plyfile==0.8.1
+tqdm
+lpips
+laspy
+einops
+wandb
+jaxtyping
+colorama
+IQA_pytorch
+opencv-python
+submodules/diff-gaussian-rasterization
+submodules/simple-knn
