@@ -1,5 +1,12 @@
 <h1 align="center"><strong>PEP-GS</strong></h1>
 <h2 align="center">Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering</h2>
+<p align="center">
+<p align="center">
+    
+  </p>
+  <h3 align="center"><a href="https://pepgs.github.io/">🌐 Project Page</a></h3>
+  <div align="center"></div>
+</p>
 
 ## Installation
 
