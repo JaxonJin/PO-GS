@@ -4,7 +4,7 @@
 <p align="center">
     
   </p>
-  <h3 align="center"><a href="https://pogs.github.io/">🌐 Project Page</a></h3>
+  <h3 align="center"><a href="https://po-gs.github.io/pogs.github.io/">🌐 Project Page</a></h3>
   <div align="center"></div>
 </p>
 
