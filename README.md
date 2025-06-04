@@ -1,18 +1,18 @@
-<h1 align="center"><strong>PEP-GS</strong></h1>
+<h1 align="center"><strong>PO-GS</strong></h1>
 <h2 align="center">Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering</h2>
 <p align="center">
 <p align="center">
     
   </p>
-  <h3 align="center"><a href="https://pepgs.github.io/">🌐 Project Page</a></h3>
+  <h3 align="center"><a href="https://pogs.github.io/">🌐 Project Page</a></h3>
   <div align="center"></div>
 </p>
 
 ## Installation
 
 ```
-conda create -n pep_gs python=3.8
-conda activate pep_gs
+conda create -n po_gs python=3.8
+conda activate po_gs
 conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
@@ -28,7 +28,7 @@ Tanks&Temples and Deep Blending datasets download link: [Tanks&Temples and Deep 
 The current directory should contain the following folders:
 
 ```
-PEP-GS
+PO-GS
 ├───data/
     ├── dataset_name
     │   ├── scene1/
